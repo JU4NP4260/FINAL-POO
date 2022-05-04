@@ -53,7 +53,7 @@ namespace RPG_simple_POO
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            lstPlayerRace.Items =
+           // lstPlayerRace.Items
         }
     }
 }
