@@ -1,0 +1,18 @@
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\bin\Debug\net6.0-windows\RPG simple POO.exe
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\bin\Debug\net6.0-windows\RPG simple POO.deps.json
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\bin\Debug\net6.0-windows\RPG simple POO.runtimeconfig.json
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\bin\Debug\net6.0-windows\RPG simple POO.dll
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\bin\Debug\net6.0-windows\RPG simple POO.pdb
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.csproj.AssemblyReference.cache
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG_simple_POO.Form1.resources
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG_simple_POO.NameForm.resources
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.csproj.GenerateResource.cache
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.AssemblyInfoInputs.cache
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.AssemblyInfo.cs
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.csproj.CoreCompileInputs.cache
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.dll
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\refint\RPG simple POO.dll
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.pdb
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.genruntimeconfig.cache
+D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\ref\RPG simple POO.dll
