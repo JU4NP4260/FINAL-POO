@@ -16,3 +16,14 @@ D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Ob
 D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.pdb
 D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.genruntimeconfig.cache
 D:\OneDrive - UPB\1 - Universidad\3-Tercer Semestre\Programación orientado a Objetos\FINAL\RPG simple POO\RPG simple POO\obj\Debug\net6.0-windows\ref\RPG simple POO.dll
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.csproj.AssemblyReference.cache
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG_simple_POO.Form1.resources
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG_simple_POO.NameForm.resources
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.csproj.GenerateResource.cache
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.AssemblyInfoInputs.cache
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.AssemblyInfo.cs
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.csproj.CoreCompileInputs.cache
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.dll
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\ref\RPG simple POO.dll
+C:\Users\juane\Desktop\Universidad\Semestre 4\POO}\Clase de objetos\Final POO\FINAL-POO\RPG Simple\RPG simple POO\obj\Debug\net6.0-windows\RPG simple POO.pdb
