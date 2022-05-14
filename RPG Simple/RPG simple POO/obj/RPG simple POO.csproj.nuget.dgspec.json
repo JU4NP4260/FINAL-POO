@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 4\\POO}\\Clase de objetos\\Final POO\\FINAL-POO\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj": {}
+    "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 4\\POO}\\Clase de objetos\\Final POO\\FINAL-POO\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj": {
+    "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 4\\POO}\\Clase de objetos\\Final POO\\FINAL-POO\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
+        "projectUniqueName": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
         "projectName": "RPG simple POO",
-        "projectPath": "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 4\\POO}\\Clase de objetos\\Final POO\\FINAL-POO\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
-        "packagesPath": "C:\\Users\\juane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 4\\POO}\\Clase de objetos\\Final POO\\FINAL-POO\\RPG Simple\\RPG simple POO\\obj\\",
+        "projectPath": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
+        "packagesPath": "C:\\Users\\Juanpa\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juanpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

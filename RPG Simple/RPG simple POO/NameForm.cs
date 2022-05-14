@@ -20,16 +20,6 @@ namespace RPG_simple_POO
             caller = callerForm;
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnCreatePlayer_Click(object sender, EventArgs e)
         {
             lblErrorText.Visible = false;
@@ -46,14 +36,12 @@ namespace RPG_simple_POO
             }
         }
 
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
            // lstPlayerRace.Items
+
+
         }
     }
 }
