@@ -8,19 +8,27 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Juanpa\\.nuget\\packages\\": {}
+    "C:\\Users\\juanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
       "projectName": "RPG simple POO",
       "projectPath": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
       "packagesPath": "C:\\Users\\Juanpa\\.nuget\\packages\\",
       "outputPath": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\juanp\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
+      "projectName": "RPG simple POO",
+      "projectPath": "C:\\Users\\juanp\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
+      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanp\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Juanpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,15 +63,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
