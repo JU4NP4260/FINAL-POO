@@ -8,12 +8,10 @@ namespace RPG_simple_POO
 {
     internal class Player
     {
-        public string playerName, playerRace;
-
-        public Player(string playerName, string playerRace)
+        public string playerName;
+        public Player(string playerName)
         {
             this.playerName = playerName;
-            this.playerRace = playerRace;
         }
     }
 }

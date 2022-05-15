@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
   "dgSpecHash": "U2vNWhEGdDuPyJR0d7fe3zAEmR4zM8uiLPnYRVDYM4I+4J9fdOZug7zgQkIHauRPyXQBcUCCnlm5VQ2Rbp/i6Q==",
   "success": true,
   "projectFilePath": "D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
-=======
-  "dgSpecHash": "s91C/N6c1qVJXkMMTpAAKEf2eUGSaRNd+bo9yi8qH07O98RMAy/RbSgdTubiXTaRKQ25GJa5imWrK3qLlrB4Lw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\RPG simple POO.csproj",
->>>>>>> Stashed changes
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\OneDrive - UPB\\1 - Universidad\\3-Tercer Semestre\\Programación orientado a Objetos\\FINAL\\RPG Simple\\RPG simple POO\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
